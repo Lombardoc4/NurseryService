@@ -1,0 +1,9 @@
+.jumbo{
+  background-size: cover;
+  margin-bottom: 0;
+}
+
+.vague-intro{
+  max-width: 350px;
+  font-size: 20px;
+}

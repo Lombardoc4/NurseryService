@@ -8,13 +8,13 @@
   max-width: 350px;
   font-size: 20px;
 }
-
-.intros{
-  position: relative;
-  z-index: 5;
+.btn-primary{
+  border-radius: 5%;
+  
 }
 
 .intro-card-middle{
+
   position: relative;
   z-index: 5;
   padding-top: 20px;
@@ -43,7 +43,7 @@
   background-size: cover; */
 }
 
-.middle{
+/* .middle{
   margin: auto;
 }
 .left{
@@ -51,4 +51,4 @@
 }
 .right{
   margin-left: 60%;
-}
+} */
